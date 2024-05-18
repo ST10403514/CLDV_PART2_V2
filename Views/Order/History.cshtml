@@ -1,0 +1,46 @@
+﻿@model IEnumerable<CLDV_POE_PART2_V1.Models.Order>
+
+@{
+    ViewData["Title"] = "Order History";
+}
+
+<div class="container mt-4">
+    <h2>@ViewData["Title"]</h2>
+    <p>Here are your previous orders:</p>
+
+    @if (Model.Any())
+    {
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Product Name</th>
+                    <th>Price</th>
+                    <th>Quantity</th>
+                    <th>Order Date</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var order in Model)
+                {
+                    <tr>
+                        <td>@order.Product.Name</td>
+                        <td>@order.Product.Price</td>
+                        <td>@order.Quantity</td>
+                        <td>@order.OrderDate</td>
+                        <td>
+                            <form asp-controller="Order" asp-action="Delete" method="post" style="display:inline;">
+                                <input type="hidden" name="id" value="@order.Id" />
+                                <button type="submit" class="btn btn-danger">Delete</button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p>You have no orders yet.</p>
+    }
+</div>

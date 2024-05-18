@@ -1,4 +1,5 @@
 using CLDV_POE_PART2_V1.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
@@ -28,6 +29,7 @@ namespace CLDV_POE_PART2_V1.Controllers
             return View();
         }
 
+        [Authorize]
         public IActionResult MyWork()
         {
             // Add craftwork data as needed

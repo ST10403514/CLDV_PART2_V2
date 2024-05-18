@@ -3,36 +3,84 @@
   "WorkspaceRootPath": "C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DDFFA537-0DAB-4C1B-8945-17DDF2240960}|CLDV_POE_PART2_V1.csproj|c:\\users\\mason\\source\\repos\\cldv_poe_part2_v1\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{DDFFA537-0DAB-4C1B-8945-17DDF2240960}|CLDV_POE_PART2_V1.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{DDFFA537-0DAB-4C1B-8945-17DDF2240960}|CLDV_POE_PART2_V1.csproj|C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFFA537-0DAB-4C1B-8945-17DDF2240960}|CLDV_POE_PART2_V1.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DDFFA537-0DAB-4C1B-8945-17DDF2240960}|CLDV_POE_PART2_V1.csproj|c:\\users\\mason\\source\\repos\\cldv_poe_part2_v1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DDFFA537-0DAB-4C1B-8945-17DDF2240960}|CLDV_POE_PART2_V1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDFFA537-0DAB-4C1B-8945-17DDF2240960}|CLDV_POE_PART2_V1.csproj|c:\\users\\mason\\source\\repos\\cldv_poe_part2_v1\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DDFFA537-0DAB-4C1B-8945-17DDF2240960}|CLDV_POE_PART2_V1.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DDFFA537-0DAB-4C1B-8945-17DDF2240960}|CLDV_POE_PART2_V1.csproj|C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\views\\home\\orderhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDFFA537-0DAB-4C1B-8945-17DDF2240960}|CLDV_POE_PART2_V1.csproj|solutionrelative:views\\home\\orderhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDFFA537-0DAB-4C1B-8945-17DDF2240960}|CLDV_POE_PART2_V1.csproj|c:\\users\\mason\\source\\repos\\cldv_poe_part2_v1\\views\\home\\mywork.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DDFFA537-0DAB-4C1B-8945-17DDF2240960}|CLDV_POE_PART2_V1.csproj|solutionrelative:views\\home\\mywork.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDFFA537-0DAB-4C1B-8945-17DDF2240960}|CLDV_POE_PART2_V1.csproj|c:\\users\\mason\\source\\repos\\cldv_poe_part2_v1\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DDFFA537-0DAB-4C1B-8945-17DDF2240960}|CLDV_POE_PART2_V1.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDFFA537-0DAB-4C1B-8945-17DDF2240960}|CLDV_POE_PART2_V1.csproj|c:\\users\\mason\\source\\repos\\cldv_poe_part2_v1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DDFFA537-0DAB-4C1B-8945-17DDF2240960}|CLDV_POE_PART2_V1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDFFA537-0DAB-4C1B-8945-17DDF2240960}|CLDV_POE_PART2_V1.csproj|c:\\users\\mason\\source\\repos\\cldv_poe_part2_v1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DDFFA537-0DAB-4C1B-8945-17DDF2240960}|CLDV_POE_PART2_V1.csproj|C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DDFFA537-0DAB-4C1B-8945-17DDF2240960}|CLDV_POE_PART2_V1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDFFA537-0DAB-4C1B-8945-17DDF2240960}|CLDV_POE_PART2_V1.csproj|c:\\users\\mason\\source\\repos\\cldv_poe_part2_v1\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{DDFFA537-0DAB-4C1B-8945-17DDF2240960}|CLDV_POE_PART2_V1.csproj|C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFFA537-0DAB-4C1B-8945-17DDF2240960}|CLDV_POE_PART2_V1.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFFA537-0DAB-4C1B-8945-17DDF2240960}|CLDV_POE_PART2_V1.csproj|C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\views\\home\\mywork.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDFFA537-0DAB-4C1B-8945-17DDF2240960}|CLDV_POE_PART2_V1.csproj|solutionrelative:views\\home\\mywork.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFFA537-0DAB-4C1B-8945-17DDF2240960}|CLDV_POE_PART2_V1.csproj|C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFFA537-0DAB-4C1B-8945-17DDF2240960}|CLDV_POE_PART2_V1.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFFA537-0DAB-4C1B-8945-17DDF2240960}|CLDV_POE_PART2_V1.csproj|C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\views\\order\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDFFA537-0DAB-4C1B-8945-17DDF2240960}|CLDV_POE_PART2_V1.csproj|solutionrelative:views\\order\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFFA537-0DAB-4C1B-8945-17DDF2240960}|CLDV_POE_PART2_V1.csproj|C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFFA537-0DAB-4C1B-8945-17DDF2240960}|CLDV_POE_PART2_V1.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFFA537-0DAB-4C1B-8945-17DDF2240960}|CLDV_POE_PART2_V1.csproj|C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\models\\orderhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFFA537-0DAB-4C1B-8945-17DDF2240960}|CLDV_POE_PART2_V1.csproj|solutionrelative:models\\orderhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFFA537-0DAB-4C1B-8945-17DDF2240960}|CLDV_POE_PART2_V1.csproj|C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDFFA537-0DAB-4C1B-8945-17DDF2240960}|CLDV_POE_PART2_V1.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFFA537-0DAB-4C1B-8945-17DDF2240960}|CLDV_POE_PART2_V1.csproj|C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDFFA537-0DAB-4C1B-8945-17DDF2240960}|CLDV_POE_PART2_V1.csproj|solutionrelative:areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFFA537-0DAB-4C1B-8945-17DDF2240960}|CLDV_POE_PART2_V1.csproj|C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\data\\migrations\\20240517114818_bitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFFA537-0DAB-4C1B-8945-17DDF2240960}|CLDV_POE_PART2_V1.csproj|solutionrelative:data\\migrations\\20240517114818_bitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFFA537-0DAB-4C1B-8945-17DDF2240960}|CLDV_POE_PART2_V1.csproj|C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DDFFA537-0DAB-4C1B-8945-17DDF2240960}|CLDV_POE_PART2_V1.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFFA537-0DAB-4C1B-8945-17DDF2240960}|CLDV_POE_PART2_V1.csproj|C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDFFA537-0DAB-4C1B-8945-17DDF2240960}|CLDV_POE_PART2_V1.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFFA537-0DAB-4C1B-8945-17DDF2240960}|CLDV_POE_PART2_V1.csproj|C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDFFA537-0DAB-4C1B-8945-17DDF2240960}|CLDV_POE_PART2_V1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFFA537-0DAB-4C1B-8945-17DDF2240960}|CLDV_POE_PART2_V1.csproj|C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DDFFA537-0DAB-4C1B-8945-17DDF2240960}|CLDV_POE_PART2_V1.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFFA537-0DAB-4C1B-8945-17DDF2240960}|CLDV_POE_PART2_V1.csproj|C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\Data\\Migrations\\20240518072553_AddedOrders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFFA537-0DAB-4C1B-8945-17DDF2240960}|CLDV_POE_PART2_V1.csproj|solutionrelative:Data\\Migrations\\20240518072553_AddedOrders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFFA537-0DAB-4C1B-8945-17DDF2240960}|CLDV_POE_PART2_V1.csproj|C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\Data\\Migrations\\20240518071723_OrderHistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFFA537-0DAB-4C1B-8945-17DDF2240960}|CLDV_POE_PART2_V1.csproj|solutionrelative:Data\\Migrations\\20240518071723_OrderHistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFFA537-0DAB-4C1B-8945-17DDF2240960}|CLDV_POE_PART2_V1.csproj|C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\Data\\Migrations\\20240517114952_bitch1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFFA537-0DAB-4C1B-8945-17DDF2240960}|CLDV_POE_PART2_V1.csproj|solutionrelative:Data\\Migrations\\20240517114952_bitch1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,46 +90,55 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml.css",
-              "DocumentMoniker": "C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
-              "ToolTip": "C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAAC0AAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-17T11:15:37.922Z",
-              "EditorCaption": ""
+              "DocumentIndex": 4,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAqwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T12:13:41.18Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 5,
+              "Title": "MyWork.cshtml",
+              "DocumentMoniker": "C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\Views\\Home\\MyWork.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\MyWork.cshtml",
+              "ToolTip": "C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\Views\\Home\\MyWork.cshtml",
+              "RelativeToolTip": "Views\\Home\\MyWork.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-17T11:15:22.225Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-17T10:44:11.93Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAA5wCoAAAABAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwA4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T10:50:07.074Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-17T10:50:07.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderHistory.cshtml",
+              "DocumentMoniker": "C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\Views\\Home\\OrderHistory.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\OrderHistory.cshtml",
+              "ToolTip": "C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\Views\\Home\\OrderHistory.cshtml",
+              "RelativeToolTip": "Views\\Home\\OrderHistory.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T12:31:56.403Z"
             },
             {
               "$type": "Document",
@@ -91,14 +148,111 @@
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABsAAAAAAAAAAAAuwC0AAAArAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAuwCYAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-17T10:47:19.901Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:32:09.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240518072553_AddedOrders.cs",
+              "DocumentMoniker": "C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\Data\\Migrations\\20240518072553_AddedOrders.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240518072553_AddedOrders.cs",
+              "ToolTip": "C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\Data\\Migrations\\20240518072553_AddedOrders.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240518072553_AddedOrders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T07:25:53.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:26:56.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240518071723_OrderHistory.cs",
+              "DocumentMoniker": "C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\Data\\Migrations\\20240518071723_OrderHistory.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240518071723_OrderHistory.cs",
+              "ToolTip": "C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\Data\\Migrations\\20240518071723_OrderHistory.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240518071723_OrderHistory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T07:17:24.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "History.cshtml",
+              "DocumentMoniker": "C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\Views\\Order\\History.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\History.cshtml",
+              "ToolTip": "C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\Views\\Order\\History.cshtml",
+              "RelativeToolTip": "Views\\Order\\History.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAgwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T12:41:17.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:27:57.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderHistory.cs",
+              "DocumentMoniker": "C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\Models\\OrderHistory.cs",
+              "RelativeDocumentMoniker": "Models\\OrderHistory.cs",
+              "ToolTip": "C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\Models\\OrderHistory.cs",
+              "RelativeToolTip": "Models\\OrderHistory.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAD4vw8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T12:47:14.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-17T11:15:37.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -106,25 +260,59 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-17T10:47:05.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-17T10:47:05.702Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MyWork.cshtml",
-              "DocumentMoniker": "C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\Views\\Home\\MyWork.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\MyWork.cshtml",
-              "ToolTip": "C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\Views\\Home\\MyWork.cshtml",
-              "RelativeToolTip": "Views\\Home\\MyWork.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACMAAABWAAAA",
+              "DocumentIndex": 10,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-17T10:44:11.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-17T11:15:22.225Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 19,
+              "Title": "20240517114952_bitch1.cs",
+              "DocumentMoniker": "C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\Data\\Migrations\\20240517114952_bitch1.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240517114952_bitch1.cs",
+              "ToolTip": "C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\Data\\Migrations\\20240517114952_bitch1.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240517114952_bitch1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:49:52.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T12:01:00.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240517114818_bitch.cs",
+              "DocumentMoniker": "C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\Data\\Migrations\\20240517114818_bitch.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240517114818_bitch.cs",
+              "ToolTip": "C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\Data\\Migrations\\20240517114818_bitch.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240517114818_bitch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:48:19.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Contact.cshtml",
               "DocumentMoniker": "C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\Views\\Home\\Contact.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Contact.cshtml",
@@ -132,12 +320,11 @@
               "RelativeToolTip": "Views\\Home\\Contact.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-17T10:43:47.908Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-17T10:43:47.908Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
               "Title": "About.cshtml",
               "DocumentMoniker": "C:\\Users\\mason\\source\\repos\\CLDV_POE_PART2_V1\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
@@ -145,8 +332,7 @@
               "RelativeToolTip": "Views\\Home\\About.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-17T10:43:26.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-17T10:43:26.217Z"
             }
           ]
         }

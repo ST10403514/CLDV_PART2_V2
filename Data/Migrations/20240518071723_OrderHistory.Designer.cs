@@ -4,6 +4,7 @@ using CLDV_POE_PART2_V1.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace CLDV_POE_PART2_V1.Data.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20240518071723_OrderHistory")]
+    partial class OrderHistory
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -102,32 +105,6 @@ namespace CLDV_POE_PART2_V1.Data.Migrations
                     b.HasKey("ProductId");
 
                     b.ToTable("Products");
-
-                    b.HasData(
-                        new
-                        {
-                            ProductId = 1,
-                            Availability = true,
-                            Category = "Crafts",
-                            Name = "Handcrafted Vase",
-                            Price = 450.0
-                        },
-                        new
-                        {
-                            ProductId = 2,
-                            Availability = true,
-                            Category = "Crafts",
-                            Name = "Bronze Sculpture",
-                            Price = 700.0
-                        },
-                        new
-                        {
-                            ProductId = 3,
-                            Availability = true,
-                            Category = "Crafts",
-                            Name = "Ceramic Bowl",
-                            Price = 300.0
-                        });
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRole", b =>

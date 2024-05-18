@@ -4,6 +4,7 @@ using CLDV_POE_PART2_V1.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace CLDV_POE_PART2_V1.Data.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20240517114952_bitch1")]
+    partial class bitch1
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -24,11 +27,11 @@ namespace CLDV_POE_PART2_V1.Data.Migrations
 
             modelBuilder.Entity("CLDV_POE_PART2_V1.Models.Order", b =>
                 {
-                    b.Property<int>("Id")
+                    b.Property<int>("OrderId")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("OrderId"));
 
                     b.Property<string>("CustomerName")
                         .IsRequired()
@@ -43,39 +46,11 @@ namespace CLDV_POE_PART2_V1.Data.Migrations
                     b.Property<int>("Quantity")
                         .HasColumnType("int");
 
-                    b.HasKey("Id");
+                    b.HasKey("OrderId");
 
                     b.HasIndex("ProductId");
 
                     b.ToTable("Orders");
-                });
-
-            modelBuilder.Entity("CLDV_POE_PART2_V1.Models.OrderHistory", b =>
-                {
-                    b.Property<int>("OrderHistoryId")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("OrderHistoryId"));
-
-                    b.Property<DateTime>("OrderDate")
-                        .HasColumnType("datetime2");
-
-                    b.Property<int>("ProductId")
-                        .HasColumnType("int");
-
-                    b.Property<int>("Quantity")
-                        .HasColumnType("int");
-
-                    b.Property<string>("UserId")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("OrderHistoryId");
-
-                    b.HasIndex("ProductId");
-
-                    b.ToTable("OrderHistories");
                 });
 
             modelBuilder.Entity("CLDV_POE_PART2_V1.Models.Product", b =>
@@ -102,32 +77,6 @@ namespace CLDV_POE_PART2_V1.Data.Migrations
                     b.HasKey("ProductId");
 
                     b.ToTable("Products");
-
-                    b.HasData(
-                        new
-                        {
-                            ProductId = 1,
-                            Availability = true,
-                            Category = "Crafts",
-                            Name = "Handcrafted Vase",
-                            Price = 450.0
-                        },
-                        new
-                        {
-                            ProductId = 2,
-                            Availability = true,
-                            Category = "Crafts",
-                            Name = "Bronze Sculpture",
-                            Price = 700.0
-                        },
-                        new
-                        {
-                            ProductId = 3,
-                            Availability = true,
-                            Category = "Crafts",
-                            Name = "Ceramic Bowl",
-                            Price = 300.0
-                        });
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRole", b =>
@@ -336,17 +285,6 @@ namespace CLDV_POE_PART2_V1.Data.Migrations
                 {
                     b.HasOne("CLDV_POE_PART2_V1.Models.Product", "Product")
                         .WithMany("Orders")
-                        .HasForeignKey("ProductId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Product");
-                });
-
-            modelBuilder.Entity("CLDV_POE_PART2_V1.Models.OrderHistory", b =>
-                {
-                    b.HasOne("CLDV_POE_PART2_V1.Models.Product", "Product")
-                        .WithMany()
                         .HasForeignKey("ProductId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
